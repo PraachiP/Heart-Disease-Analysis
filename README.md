@@ -4,4 +4,4 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 all irrespective of any status. We are required to analyze this health and medical data for
 better future preparation.
 
-Heart Disease detection based on various factors.
+The aim of this project is to predict heart disease based on various factors.
