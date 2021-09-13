@@ -8,7 +8,7 @@ The aim of this project is to predict heart disease based on various factors.
 
 
 
-The Heart disease data set consists of patient data from Cleveland, Hungary, Long Beach and Switzerland. The combined dataset consists of 14 features and 916 samples with many missing values. The features used in here are,
+The Heart disease data set consists of patient data. The combined dataset consists of 14 features and 916 samples with many missing values. The features used in here are,
 
 age: The patients age in years
 
@@ -32,4 +32,6 @@ exang: Chest pain(angina) after exercise? (1=yes; 0=no)
 
 thal: Not described *Value 3=normal *Value 6=treated defect *Value 7=reversible defect
 
-num: Target *Value 0: less than 50% narrowing of coronary arteries(no heart disease) *Value 1,2,3,4: >50% narrowing. The value indicates the stage of heart disease
+num: Target 
+*Value 0: less than 50% narrowing of coronary arteries(no heart disease) 
+*Value 1,2,3,4: >50% narrowing. The value indicates the stage of heart disease
