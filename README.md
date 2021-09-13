@@ -11,7 +11,9 @@ The aim of this project is to predict heart disease based on various factors.
 The Heart disease data set consists of patient data from Cleveland, Hungary, Long Beach and Switzerland. The combined dataset consists of 14 features and 916 samples with many missing values. The features used in here are,
 
 age: The patients age in years
+
 sex: The patients gender(1=male; 0=female)
+
 cp: Chest pain type, *Value 1: typical angina *Value 2: atypical angina *Value 3: non-anginal pain *Value 4: asymptomatic
 trestbps: Resting blood pressure (in mm Hg on admission to the hospital)
 chol: Serum cholestoral in mg/dl
