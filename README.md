@@ -8,6 +8,8 @@ The aim of this project is to predict heart disease based on various factors.
 
 
 
+
+
 The Heart disease data set consists of patient data. The combined dataset consists of 14 features and 916 samples with many missing values. The features used in here are,
 
 age: The patients age in years
