@@ -37,3 +37,7 @@ thal: Not described *Value 3=normal *Value 6=treated defect *Value 7=reversible 
 num: Target 
 *Value 0: less than 50% narrowing of coronary arteries(no heart disease) 
 *Value 1,2,3,4: >50% narrowing. The value indicates the stage of heart disease
+
+By-
+Prachi 
+Shail
