@@ -39,5 +39,5 @@ num: Target
 *Value 1,2,3,4: >50% narrowing. The value indicates the stage of heart disease
 
 By-
-Prachi 
-Shail
+Prachi & Shail
+
