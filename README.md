@@ -1,13 +1,15 @@
-# Heart-Disease-Analysis :-
+# Heart-Disease-Analysis 
+
+## Introduction :-
 
 Health is real wealth in the pandemic time we all realized the brute effects of covid-19 on
 all irrespective of any status. We are required to analyze this health and medical data for
 better future preparation.
 
-# FINDINGS :-
+## FINDINGS :-
 The aim of this project is to predict heart disease based on various factors.
 
-# DATASET USED :-
+## DATASET USED :-
 The Heart disease data set consists of patient data. The combined dataset consists of 14 features and 916 samples with many missing values. The features used in here are,
 
 age: The patients age in years
@@ -36,6 +38,12 @@ num: Target
 *Value 0: less than 50% narrowing of coronary arteries(no heart disease) 
 *Value 1,2,3,4: >50% narrowing. The value indicates the stage of heart disease
 
-# By-
+## Contributor
 Prachi & Shail
+
+## Reach out @[Linkedin][1]
+
+
+[1]: https://www.linkedin.com/in/prachi-g-898572219/ "Linkedin"
+
 
