@@ -5,6 +5,10 @@
 Health is real wealth in the pandemic time we all realized the brute effects of covid-19 on
 all irrespective of any status. We are required to analyze this health and medical data for
 better future preparation.
+Heart disease (HD) is one of the most common diseases nowadays, and an early diagnosis of such a disease is a crucial task for many health care providers to prevent their patients for such a disease and to save lives. 
+
+The health care industries collect huge amounts of data that contain some hidden information, which is useful for making effective decisions. For providing appropriate results and making effective decisions on data, some data science techniques need to be used. The data analysis predicts the likelihood of patients getting heart disease. It enables significant knowledge. E.g. Relationships between medical factors related to heart disease and patterns, to be established. The obtained results have illustrated that the designed diagnostic system can effectively predict the risk level of heart diseases.
+
 
 ## FINDINGS :-
 The aim of this project is to predict heart disease based on various factors.
